@@ -1,0 +1,18 @@
+# Repositorio PÚBLICO: solo entran las fichas en PDF, hojas de Excel y el índice (README.md).
+# Todo lo demás queda fuera.
+*
+!*/
+!*.pdf
+!*.xlsx
+!*.xls
+!README.md
+!.gitignore
+
+# Nunca, en ninguna carpeta: claves, configuración local ni copias de .env (aunque acaben en .pdf o .xlsx).
+.env
+.env*
+**/.env
+**/.env*
+*.key
+*secret*
+*credential*
