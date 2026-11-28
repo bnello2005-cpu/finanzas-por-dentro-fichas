@@ -12,6 +12,7 @@ a bolsa, reestructuraciones y fondos. Esta es la ficha de cada caso, en PDF de u
 
 | Fecha | Caso | De qué va |
 |-------|------|-----------|
+| 2026-11-28 | [TXU / Energy Future Holdings](2026-11-28-txu.pdf) | El mayor LBO de su época y su quiebra |
 | 2026-11-25 | [RJR Nabisco](2026-11-25-rjr-nabisco.pdf) | La subasta que ganó la oferta más baja |
 | 2026-11-24 | [Banco Popular](2026-11-24-banco-popular.pdf) | Vendido por 1 euro |
 | 2026-11-24 | [Toys R Us](2026-11-24-toys-r-us.pdf) | La compra apalancada de 2005 |
